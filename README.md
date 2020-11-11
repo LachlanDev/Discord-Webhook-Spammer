@@ -10,7 +10,7 @@
 </p>
 
 # About
-Making Discord BOT Development easy. PLUG. is a tool designed to help develop Discord BOT applications without having to write a single line of code!
+An Open Source Discord Webhook Spammer with UI. Built using Node.JS and Electron
 
 ## Features 
 * Set Webhook Username
